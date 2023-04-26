@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Lol {
+public class Lol {
+    public void rt() {
+        System.out.println("AAAAAA");
+    }
 }
