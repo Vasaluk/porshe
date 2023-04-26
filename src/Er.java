@@ -8,4 +8,9 @@ public class Er {
         System.out.println("AAAAAA");
         System.out.println("WWWWWWW");
     }
+
+    public void qa() {
+        System.out.println("AAAAAA");
+        System.out.println("WWWWWWW");
+    }
 }
