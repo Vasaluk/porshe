@@ -6,5 +6,7 @@ public class Lol {
 
     public void mm() {
         System.out.println("WWWWWWW");
+
+
     }
 }
